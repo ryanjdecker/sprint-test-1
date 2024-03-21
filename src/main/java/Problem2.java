@@ -8,6 +8,7 @@ public class Problem2 {
                     int temp = data[j];
                     data[j] = data[j + 1];
                     data[j + 1] = temp;
+                    data[j];
                 }
             }
         }
